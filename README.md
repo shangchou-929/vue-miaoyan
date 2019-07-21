@@ -3,14 +3,16 @@
 ## 项目说明
 ```
 这是我在学习Vue框架时写的一个项目
-```
 所用到的技术栈有vue-cli3+ vue-router + vuex + vue-axios + better-scroll
+```
+
 
 ### 项目运行
 ```
 npm install
-```
 npm run serve
+```
+
 
 ### Compiles and minifies for production
 ```
