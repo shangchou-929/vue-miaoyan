@@ -7,27 +7,15 @@
 ```
 
 
-### 项目运行
+## 项目运行
 ```
 npm install
 npm run serve
 ```
 
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 页面展示
+![](https://github.com/shangchou-929/weixin-emarket/raw/master/mydemo/demo1.png)
+![](https://github.com/shangchou-929/weixin-emarket/raw/master/mydemo/demo2.png)
+![](https://github.com/shangchou-929/weixin-emarket/raw/master/mydemo/demo3.png)
+![](https://github.com/shangchou-929/weixin-emarket/raw/master/mydemo/demo4.png)
+![](https://github.com/shangchou-929/weixin-emarket/raw/master/mydemo/demo5.png)
