@@ -1,14 +1,16 @@
-# vue-movie
+# 喵眼电影（仿猫眼电影的Vue项目）
 
-## Project setup
+## 项目说明
+```
+这是我在学习Vue框架时写的一个项目
+```
+所用到的技术栈有vue-cli3+ vue-router + vuex + vue-axios + better-scroll
+
+### 项目运行
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
 
 ### Compiles and minifies for production
 ```
