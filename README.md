@@ -21,9 +21,9 @@ npm run serve
 * 相应城市的影院列表展示
 
 ## 页面展示
-![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/demo1.png)
-![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/demo2.png)
-![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/demo3.png)
-![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/demo4.png)
-![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/demo5.png)
-![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/demo6.png)
+![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/mydemo1.png)
+![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/mydemo2.png)
+![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/mydemo3.png)
+![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/mydemo4.png)
+![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/mydemo5.png)
+![](https://github.com/shangchou-929/vue-miaoyan/raw/master/mydemo/mydemo6.png)
