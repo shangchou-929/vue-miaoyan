@@ -1,9 +1,8 @@
-# 喵眼电影（仿猫眼电影的Vue项目）
+# 友嘉电影App
 
 ## 项目说明
 ```
-这是我在学习Vue框架时写的一个项目
-所用到的技术栈有vue-cli3+ vue-router + vuex + vue-axios + better-scroll
+项目所用到的技术栈有vue-cli3+ vue-router + vuex + vue-axios + better-scroll
 ```
 
 
